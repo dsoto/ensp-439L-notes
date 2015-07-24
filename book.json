@@ -1,0 +1,6 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "Computer Applications in Energy Management and Design",
+    "plugins": [ "mathjax" ],
+    "pluginsConfig": {}
+}
